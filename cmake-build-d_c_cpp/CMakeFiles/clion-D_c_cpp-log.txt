@@ -1,0 +1,21 @@
+/opt/CLion-2024.1.1/clion-2024.1.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/CLion-2024.1.1/clion-2024.1.1/bin/ninja/linux/x64/ninja -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G Ninja -S /home/lhy/CLionProjects/SPI_DMA -B /home/lhy/CLionProjects/SPI_DMA/cmake-build-d_c_cpp
+Build type: Debug
+-- Configuring done (0.0s)
+You have changed variables that require your cache to be deleted.
+Configure will be re-run and you may have to reset some variables.
+The following variables have changed:
+CMAKE_C_COMPILER= /usr/bin/gcc
+CMAKE_C_COMPILER= /usr/bin/gcc
+CMAKE_CXX_COMPILER= /usr/bin/g++
+CMAKE_C_COMPILER= /usr/bin/gcc
+CMAKE_CXX_COMPILER= /usr/bin/g++
+CMAKE_C_COMPILER= /usr/bin/gcc
+
+-- The C compiler identification is GNU 13.2.1
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/arm-none-eabi-gcc
+-- The CXX compiler identification is GNU 13.2.1
+Build type: Debug
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/lhy/CLionProjects/SPI_DMA/cmake-build-d_c_cpp

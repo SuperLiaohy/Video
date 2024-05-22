@@ -1,0 +1,5 @@
+/opt/CLion-2024.1.1/clion-2024.1.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/CLion-2024.1.1/clion-2024.1.1/bin/ninja/linux/x64/ninja -DCMAKE_C_COMPILER=/usr/bin/arm-none-eabi-gcc -DCMAKE_CXX_COMPILER=/usr/bin/arm-none-eabi-g++ -G Ninja -S /home/lhy/CLionProjects/SPI_DMA -B /home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm
+Build type: Debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm

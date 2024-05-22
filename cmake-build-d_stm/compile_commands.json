@@ -1,0 +1,200 @@
+[
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-g++ -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -fno-rtti -fno-exceptions -fno-threadsafe-statics -g -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Core/LCD/CCpp.cpp.obj -c /home/lhy/CLionProjects/SPI_DMA/Core/LCD/CCpp.cpp",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Core/LCD/CCpp.cpp",
+  "output": "CMakeFiles/SPI_DMA.dir/Core/LCD/CCpp.cpp.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-g++ -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -fno-rtti -fno-exceptions -fno-threadsafe-statics -g -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Core/LCD/LCD.cpp.obj -c /home/lhy/CLionProjects/SPI_DMA/Core/LCD/LCD.cpp",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Core/LCD/LCD.cpp",
+  "output": "CMakeFiles/SPI_DMA.dir/Core/LCD/LCD.cpp.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-g++ -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -fno-rtti -fno-exceptions -fno-threadsafe-statics -g -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Core/Own/IT.cpp.obj -c /home/lhy/CLionProjects/SPI_DMA/Core/Own/IT.cpp",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Core/Own/IT.cpp",
+  "output": "CMakeFiles/SPI_DMA.dir/Core/Own/IT.cpp.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-g++ -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -fno-rtti -fno-exceptions -fno-threadsafe-statics -g -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Core/Own/main.cpp.obj -c /home/lhy/CLionProjects/SPI_DMA/Core/Own/main.cpp",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Core/Own/main.cpp",
+  "output": "CMakeFiles/SPI_DMA.dir/Core/Own/main.cpp.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-g++ -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -fno-rtti -fno-exceptions -fno-threadsafe-statics -g -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Core/Own/uart.cpp.obj -c /home/lhy/CLionProjects/SPI_DMA/Core/Own/uart.cpp",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Core/Own/uart.cpp",
+  "output": "CMakeFiles/SPI_DMA.dir/Core/Own/uart.cpp.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Core/Src/dma.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Core/Src/dma.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Core/Src/dma.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Core/Src/dma.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Core/Src/gpio.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Core/Src/gpio.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Core/Src/gpio.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Core/Src/gpio.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Core/Src/spi.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Core/Src/spi.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Core/Src/spi.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Core/Src/spi.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Core/Src/stm32f4xx_hal_msp.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Core/Src/stm32f4xx_hal_msp.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Core/Src/stm32f4xx_hal_msp.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Core/Src/stm32f4xx_hal_msp.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Core/Src/stm32f4xx_it.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Core/Src/stm32f4xx_it.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Core/Src/stm32f4xx_it.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Core/Src/stm32f4xx_it.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Core/Src/syscalls.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Core/Src/syscalls.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Core/Src/syscalls.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Core/Src/syscalls.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Core/Src/sysmem.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Core/Src/sysmem.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Core/Src/sysmem.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Core/Src/sysmem.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Core/Src/system_stm32f4xx.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Core/Src/system_stm32f4xx.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Core/Src/system_stm32f4xx.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Core/Src/system_stm32f4xx.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Core/Src/tim.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Core/Src/tim.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Core/Src/tim.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Core/Src/tim.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Core/Src/usart.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Core/Src/usart.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Core/Src/usart.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Core/Src/usart.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj -c /home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c",
+  "output": "CMakeFiles/SPI_DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj"
+},
+{
+  "directory": "/home/lhy/CLionProjects/SPI_DMA/cmake-build-d_stm",
+  "command": "/usr/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -I/home/lhy/CLionProjects/SPI_DMA/Core/LCD -I/home/lhy/CLionProjects/SPI_DMA/Core/Own -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Core/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/home/lhy/CLionProjects/SPI_DMA/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -x assembler-with-cpp -MMD -MP -g -o CMakeFiles/SPI_DMA.dir/startup_stm32f407xx.s.obj -c /home/lhy/CLionProjects/SPI_DMA/startup_stm32f407xx.s",
+  "file": "/home/lhy/CLionProjects/SPI_DMA/startup_stm32f407xx.s",
+  "output": "CMakeFiles/SPI_DMA.dir/startup_stm32f407xx.s.obj"
+}
+]
